@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMerge", "XMerge\XMerge.csproj", "{3022DFF1-24D5-493E-A808-D1B1A3A458BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3022DFF1-24D5-493E-A808-D1B1A3A458BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3022DFF1-24D5-493E-A808-D1B1A3A458BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3022DFF1-24D5-493E-A808-D1B1A3A458BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3022DFF1-24D5-493E-A808-D1B1A3A458BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7F276FE-E170-49FF-A75A-623C94459677}
+	EndGlobalSection
+EndGlobal
